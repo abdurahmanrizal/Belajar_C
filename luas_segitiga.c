@@ -2,7 +2,6 @@
     Nama    : Abdurahman
     NIM     : A11.2015.09266
     Kampus  : Universitas Dian Nuswantoro
-    Project : Luas dan keliling segitiga menggunakan bahasa c
     Tugas   : PDP 1
 */
 

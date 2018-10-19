@@ -1,3 +1,9 @@
+/* 
+    Nama    : Abdurahman
+    NIM     : A11.2015.09266
+    Kampus  : Universitas Dian Nuswantoro
+    Tugas   : PDP 2
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
